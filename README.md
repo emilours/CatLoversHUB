@@ -2,6 +2,7 @@
 # CAT LOVERS HUB 😺
 
 **Cat Lovers Hub** 😺 is a fun project primarily created for learning and practicing with Tailwind CSS and Flask. The application leverages the CAT API to display various cat images and information, and the JOKE API to provide cat-themed jokes for some added fun. This project allows me to enhance my web development skills while building something enjoyable for cat enthusiasts. By integrating these APIs, I'm able to experiment with both frontend and backend technologies, improving my understanding of Tailwind's utility-first design and Flask's ability to handle API requests and responses.
+And this is a tribute to the best cat in the universe : mine, Salem.
 
 ### **Tech Stack Used** ⚙️
 

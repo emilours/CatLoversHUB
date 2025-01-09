@@ -21,7 +21,7 @@ With the **CAT API**, you can get a cat's picture along with its breed informati
 ## Acknowledgements
 
  - [CAT API](https://thecatapi.com/) : sign up to get an API key and create credentials for free
- - [JOKE API FOR DEV](https://v2.jokeapi.dev/) : not need for api key to use it, it's public
+ - [JOKE API FOR DEV](https://v2.jokeapi.dev/) : no need for api key to use it, it's public
 
 
 

@@ -11,7 +11,7 @@
 ###  **Get cat's picture: no breed information but a programming joke instead** 🃏
 With the CAT API and the JOKE API, you can get a random cat picture paired with a programming joke, instead of breed information, for a fun !
 
-![Welcome](assets/withJoke.gif)
+![Welcome](assets/withJokes.gif)
 
 ###  **Get cat's picture with its breed information thanks to Wikipedia** 🧾
 With the **CAT API**, you can get a cat's picture along with its breed information, including a link to the Wikipedia page that provides more details about the breed.
